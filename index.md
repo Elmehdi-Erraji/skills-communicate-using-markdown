@@ -34,3 +34,11 @@ public class HelloWorld {
         System.out.println("Hello, GitHub Markdown!");
     }
 }
+## ✅ My Markdown Task List
+
+- [x] Add headers to this file  
+- [x] Add an image with alt-text  
+- [x] Add a Java code block example  
+- [ ] Turn on GitHub Pages  
+- [ ] Outline my portfolio  
+- [ ] Introduce myself to the world
