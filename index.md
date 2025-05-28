@@ -23,3 +23,14 @@ I love working on real-world projects, automating deployments, and creating clea
 ---
 
 ![Octocat with Yak horns](https://octodex.github.com/images/yaktocat.png)
+
+---
+
+## Sample Code
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, GitHub Markdown!");
+    }
+}
